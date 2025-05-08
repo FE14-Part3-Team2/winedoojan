@@ -8,7 +8,7 @@ function NotFound() {
   return (
     <div className="flex flex-col items-center lg:px-[390px] lg:pt-[24px] lg:pb-[109px] md:px-[20px] md:pt-[24px] md:pb-[72px] px-[16px] pt-[16px] pb-[62px]">
       <Header />
-      <div className="flex flex-col gap-10 items-center">
+      <div className="flex flex-col gap-10 items-center mt-10">
         <h1 className="text-7xl max-md:text-5xl font-medium text-garnet">
           404 ERROR
         </h1>
