@@ -37,7 +37,7 @@ https://winedoojan-project.vercel.app/
 
 - **Backend:**
 
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white" />
 
 - **Authentication:**
 
